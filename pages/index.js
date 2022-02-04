@@ -41,7 +41,7 @@ export default function Home() {
         <button className="p-2 text-sm text-bold bg-yellow-100 hover:bg-[#EE4E34] hover:border hover:text-white rounded-lg">
           Add Text
         </button>
-        <a href="https://www.google.com" className="p-2 text-sm text-bold bg-yellow-100 hover:bg-[#EE4E34] hover:border hover:text-white rounded-lg">
+        <a href="https://github.com/iYashodhan/precily-app-yxn" className="p-2 text-sm text-bold bg-yellow-100 hover:bg-[#EE4E34] hover:border hover:text-white rounded-lg">
           Check on Github
         </a>
       </form>
